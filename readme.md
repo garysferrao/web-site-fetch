@@ -11,5 +11,7 @@
 <p>
     <code>ls ~/www.google.com.html …</code>
 </p>
+<h2>Development</h2>
+<p>To run, please find the Dockerfile under <code>cmd/fetch/Dockerfile</code>.</p>
 </body>
 </html>
